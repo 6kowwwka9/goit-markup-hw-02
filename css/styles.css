@@ -57,6 +57,11 @@
     letter-spacing: 0.02em;
     text-transform: capitalize;
     color: #2e2f42;
+    font-weight: 500;
+    font-weight: 500;
+        font-size: 20px;
+        line-height: 1.2;
+
 }
 .section-two-text {
     font-size: 16px;
@@ -78,7 +83,7 @@
    
 }
 .section-three-list {
-    background-color: #FFFFFF;
+background-color: #FFFFFF;
 
 }
 .item-team {
@@ -218,6 +223,8 @@
 }
 .text {
     color: #F4F4FD;
+    line-height: 1.5;
+    letter-spacing: 0.02em;
 }
 .top-menu-link {
     font-weight: 500;
@@ -229,6 +236,9 @@
 .top-menu-link:hover {
     color: #404bbf;
 }
+.top-menu-link:focus {
+    color: #404bbf;
+}
 .top-menu-address-link {
     font-style: normal;
     line-height: 1.5;
@@ -236,6 +246,9 @@
     color: #434455;
 }
 .top-menu-address-link:hover {
+    color: #404bbf;
+}
+.top-menu-address-link:focus {
     color: #404bbf;
 }
 .photo-name {
