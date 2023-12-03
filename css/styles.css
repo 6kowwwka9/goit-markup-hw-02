@@ -120,12 +120,7 @@
     letter-spacing: 0.04em;
     border-radius: 4;
         background-color: #4D5AE5;
-        display: inline-flex;
-        align-items: flex-start;
-        gap: 10px;
         justify-content: center;
-        align-items: center;
-        box-sizing: border-box;
         
 }               
 .hero-button:hover {
