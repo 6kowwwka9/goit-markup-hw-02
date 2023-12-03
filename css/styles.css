@@ -24,9 +24,6 @@
 .hero-title {
     color: #FFF;
     text-align: center;
-    width: 1440px;
-    height: 600px;
-    flex-shrink: 0;
     font-size: 56px;
     font-style: normal;
     font-weight: 700px;
@@ -118,7 +115,6 @@
     font-size: 16px;
     line-height: 1.5;
     letter-spacing: 0.04em;
-    border-radius: 4;
         background-color: #4D5AE5;
         justify-content: center;
         
@@ -169,9 +165,7 @@
 }
 .link {
     background-color: #2E2F42;
-    width: 1440px;
-        height: 312px;
-        
+    
 }
 .logo {
     color: #4D5AE5;
@@ -196,7 +190,7 @@
 }
 .logo-color-head {
     color: #2E2F42;
-    ont-family: "Raleway", sans-serif;
+    font-family: "Raleway", sans-serif;
     font-weight: 700;
     font-size: 18px;
     line-height: 1.17;
